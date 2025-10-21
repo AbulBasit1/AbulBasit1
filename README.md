@@ -1,16 +1,21 @@
-## Hi there 👋
+I'm Abul Basit
 
-<!--
-**AbulBasit1/AbulBasit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science with Artificial Intelligence student at Birmingham City University.  
+💻 Passionate about software development, AI, data analysis, and IoT systems.  
+🚀 Always eager to learn, build, and apply technology to solve real-world problems.
 
-Here are some ideas to get you started:
+-Technical Skills
+- **Languages:** Python, JavaScript, HTML, CSS, Arduino C++
+- **Tools:** pandas, scikit-learn, matplotlib, Git, VS Code, Arduino IDE
+- **Core Skills:** Software Development, Data Analysis, Web Design, IoT Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Featured Projects
+- 🔗 [Electron Microscope Website](#) – Multi-page website built with HTML, CSS & JS.
+- 🎬 [FlickFix Cinema App](#) – Interactive cinema booking system in JavaScript.
+- 📊 [Data Analysis Report](#) – Logistic regression & data visualisation in Python.
+- 🌡️ [Smart Thermostat IoT](#) – Arduino-based temperature & humidity system.
+- 🏥 [Hospital Management System](#) – Basic data management system in Python.
+
+---
+**Connect with me:**  
+[Email](mailto:abulbasit@outlook.com) | [LinkedIn](https://www.linkedin.com/in/abul-basit-241ab2b0/) | [GitHub](https://github.com/AbulBasit1)
