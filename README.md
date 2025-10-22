@@ -12,7 +12,7 @@ I'm Abul Basit
 - Featured Projects
 - 🔗 [Electron Microscope Website](https://github.com/AbulBasit1/Electron-Microscope-Website) – Multi-page website built with HTML, CSS & JS.
 - 🎬 [FlickFix Cinema App](https://github.com/AbulBasit1/FlickFix-Cinema-App) – Interactive cinema booking system in JavaScript.
-- 📊 [Data Analysis Report](https://github.com/AbulBasit1/Dataset-Analysis-Report) – Logistic regression & data visualisation in Python.
+- 📊 [Data Analysis Report](https://github.com/AbulBasit1/Dataset-Analysis-Report) – Diabetes Risk Prediction (Decision Tree) – Python (pandas, scikit-learn, matplotlib)
 - 🌡️ [Smart Thermostat IoT](https://github.com/AbulBasit1/Smart-Thermostat-IoT) – Arduino-based temperature & humidity system.
 - 🏥 [Hospital Management System](https://github.com/AbulBasit1/Hospital-Management-System)– Basic data management system in Python.
 
